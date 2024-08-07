@@ -8,6 +8,7 @@ Copy the extracted contents of dist.zip to the same directory as Taiko.exe
 
 ### config.toml
 
+
 ```toml
 [amauth]
 # connection server
